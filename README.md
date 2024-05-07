@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/783816663.svg)](https://zenodo.org/doi/10.5281/zenodo.11130734)
 
 # Urban Forest Traits Final Project
 Repository for my Earth Analytics Spring 2024 Final project, "Understanding urban forest traits and cooling impact using ECOSTRESS in Boulder, Colorado: an exploratory analysis."
